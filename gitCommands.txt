@@ -1,0 +1,7 @@
+GIT COMMANDS
+
+//git init -> Initializes the git in the file
+//git clone -> Clones the pre-existed repository
+//git add -> Adds the changes in the file
+//git commit -> Commits the changes to the repository
+//git push-> push the code to the branch
